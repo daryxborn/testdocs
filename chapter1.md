@@ -22,3 +22,10 @@
 + Create new subscription
 + Set subscription options and save
 
+{% mermaid %}
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+{% endmermaid %}
